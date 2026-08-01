@@ -1,2 +1,3 @@
 The file has been created and changed ,
-Now we changed the file in the repo
+Now we changed the file in the repo,
+Now the local repo has edited something
