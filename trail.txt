@@ -1,3 +1,4 @@
 The file has been created and changed ,
 Now we changed the file in the repo,
-Now the local repo has edited something
+Now the local repo has edited something,
+It is now being changed in the remote repository
